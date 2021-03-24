@@ -1,0 +1,9 @@
+[submodule "v1_likelihood"]
+	path = v1_likelihood
+	url = https://github.com/eywalker/v1_likelihood
+[submodule "v1_project"]
+	path = v1_project
+	url = https://github.com/eywalker/v1_project
+[submodule "ephys-preprocessing"]
+	path = ephys-preprocessing
+	url = https://github.com/atlab/ephys-preprocessing
